@@ -3,4 +3,6 @@
 ## About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects.
 
+Bu projede Web Scraping ile Trendyol, Teknosa, Hepsiburada sitelerindeki "Laptop" ürünlerine ait bilgiler çekilmiştir. Çekilen bilgiler MySQL veritabanına kaydedilmiştir. Veritabanında ürünlere ait marka, model adı, model no, işletim sistemi, işlemci tipi, işlemci nesli, ram, disk boyutu, disk türü, ekran boyutu, puanı, fiyatı, verinin çekildiği site
+
 
